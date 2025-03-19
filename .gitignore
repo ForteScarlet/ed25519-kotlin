@@ -3,3 +3,7 @@
 /.settings/
 *.class
 *.iml
+
+.idea
+.gradle
+.kotlin
